@@ -112,6 +112,6 @@ In addition to regular user functionalities, administrators can:
    - If duplicate data issues occur, run `flask initdb --drop` and then run `flask build`.
 
 4. **Default Accounts:**
-   - Default admin account: "zzc."
-   - Regular accounts: "zjc," "abc," "赵怀真," "沈梦溪," "asd," "海月," and "test."
-   - All passwords are set to "123456."
+   - Default admin account: "zzc"
+   - Regular accounts: "mav"
+   - All passwords are set to "123456"
